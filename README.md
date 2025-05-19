@@ -21,7 +21,7 @@ The `lqr_runtime` branch successfully demonstrates the real-time calculation of 
 1. **Clone the Repository**:
     ```bash
     git clone --recurse-submodules git@github.com:username/PX4-CT-Integration.git
-    cd PX4-Autopilot
+    cd PX4-CT-Integration
     ```
 
 2. **Build PX4**:
