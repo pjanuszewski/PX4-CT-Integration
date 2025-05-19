@@ -20,7 +20,7 @@ The `lqr_runtime` branch successfully demonstrates the real-time calculation of 
 ## Getting Started
 1. **Clone the Repository**:
     ```bash
-    git clone --recurse-submodules https://github.com/your-username/PX4-Autopilot.git
+    git clone --recurse-submodules git@github.com:username/PX4-CT-Integration.git
     cd PX4-Autopilot
     ```
 
